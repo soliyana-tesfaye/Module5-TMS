@@ -156,3 +156,4 @@ C:\Users\HP\OneDrive\Desktop\AAU5\TMSApi\obj\Debug\net10.0\refint\TmsApi.dll
 C:\Users\HP\OneDrive\Desktop\AAU5\TMSApi\obj\Debug\net10.0\TmsApi.pdb
 C:\Users\HP\OneDrive\Desktop\AAU5\TMSApi\obj\Debug\net10.0\TmsApi.genruntimeconfig.cache
 C:\Users\HP\OneDrive\Desktop\AAU5\TMSApi\obj\Debug\net10.0\ref\TmsApi.dll
+C:\Users\HP\OneDrive\Desktop\AAU5\TMSApi\obj\Debug\net10.0\TmsApi.sourcelink.json
